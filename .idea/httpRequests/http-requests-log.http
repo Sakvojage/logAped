@@ -1,0 +1,463 @@
+POST http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+{
+  "bag": {
+    "number": "Versija 55"
+  }
+}
+
+<> 2019-11-02T103759.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+{
+  "bag": {
+    "number": "370687kasfjlk asdf;lk j791332"
+  }
+}
+
+<> 2019-11-02T103741.202.json
+
+###
+
+GET http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+<> 2019-11-02T093832.200.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+{
+  "bag": {
+    "number": 3706879898791332
+  }
+}
+
+<> 2019-11-02T093807.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+{
+  "bag": {
+    "number": 37067811332
+  }
+}
+
+<> 2019-11-02T093749.202.json
+
+###
+
+GET http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+<> 2019-11-02T093455.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+<> 2019-11-02T093331.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/log/21
+Content-Type: application/json
+
+<> 2019-11-02T093322.200.json
+
+###
+
+GET http://127.0.0.1:8000/api/log/4
+Content-Type: application/json
+
+<> 2019-11-02T093300.404.html
+
+###
+
+GET http://127.0.0.1:8000/api/log/3
+Content-Type: application/json
+
+<> 2019-11-02T093253.404.html
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+{"status": "meh"}
+
+<> 2019-11-02T093234.202.json
+
+###
+
+GET http://127.0.0.1:8000/api/log/3
+Content-Type: application/json
+
+<> 2019-11-02T092403.200.json
+
+###
+
+DELETE http://127.0.0.1:8000/api/log/1
+Content-Type: application/json
+
+<> 2019-11-02T092230.200.html
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+{
+  "bag": {
+    "number": 37067811222
+  }
+}
+
+<> 2019-11-02T091959.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+{
+  "bag": {
+    "number": 37067811107
+  }
+}
+
+<> 2019-11-02T091931.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+[{
+  "bag": {
+    "number": 37067811107
+  }
+}]
+
+<> 2019-11-02T091852.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+{
+  "bag": {
+    "number": 37067811107
+  }
+}
+
+<> 2019-11-02T091834.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+{
+  "bag": {
+    "number": 37067811107
+  }
+}
+
+<> 2019-11-02T091813.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+{
+  "bag": {
+    "number": 37067811107
+  }
+}
+
+<> 2019-11-02T091655.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+{
+  "bag": {
+    "number": 37067811107
+  }
+}
+
+<> 2019-11-02T091617.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+{
+  "bag": {
+    "number": 37067811107
+  }
+}
+
+<> 2019-11-02T091547.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Content-Type: application/json
+
+{
+  "bag": {
+    "number": 37067811107
+  }
+}
+
+<> 2019-11-02T091455.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Content-Type: application/json
+
+{"data": "meh"}
+
+<> 2019-11-02T091251.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Content-Type: application/json
+
+{"data": "meh"}
+
+<> 2019-11-02T091203.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Content-Type: application/json
+
+{"status": "meh"}
+
+<> 2019-11-02T091124.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Content-Type: application/json
+Cache-Control: no-cache
+{"status": "meh"}
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+{"status": "meh"}
+
+<> 2019-11-02T091048.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+{"status": "meh"}
+
+<> 2019-11-02T090926.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+{"status": "meh"}
+
+<> 2019-11-02T090840.202.json
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+{"status": "meh"}
+
+<> 2019-11-02T090800.500.html
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+{"status": "meh"}
+
+<> 2019-11-02T090646.202.html
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+{"status": "meh"}
+
+<> 2019-11-02T090555.200.html
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+{"status": "meh"}
+
+<> 2019-11-02T090549.200.html
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+{"status": "meh"}
+
+<> 2019-11-02T090528.200.html
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+{"status": "meh"}
+
+<> 2019-11-02T090249.500.html
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+{"status": "meh"}
+
+<> 2019-11-02T090112.500.html
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+{"status": "meh"}
+
+<> 2019-11-02T085920.500.html
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+{"status": "meh"}
+
+<> 2019-11-02T085847.500.html
+
+###
+
+POST http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-11-02T085816.500.html
+
+###
+
+POST http://127.0.0.1:8000/api/log/create
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-11-02T085754.405.html
+
+###
+
+POST http://127.0.0.1:8000/api/log/create/777
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-11-02T085741.404.html
+
+###
+
+POST http://127.0.0.1:8000/api/log/store/777
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-11-02T085729.404.html
+
+###
+
+POST http://127.0.0.1:8000/api/log/777
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-11-02T085710.405.html
+
+###
+
+GET http://127.0.0.1:8000/api/log
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-11-02T085650.200.json
+
+###
+
+GET http://127.0.0.1:8000/api
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-11-02T085640.404.html
+
+###
+
+GET http://localhost:8000/log
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-11-02T085620.404.html
+
+###
+
+GET http://localhost:8080/log
+Accept: */*
+Cache-Control: no-cache
+
+###
+

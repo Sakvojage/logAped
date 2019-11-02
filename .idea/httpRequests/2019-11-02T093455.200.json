@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "data": null,
+            "links": {
+                "self": "link-value"
+            }
+        },
+        {
+            "data": null,
+            "links": {
+                "self": "link-value"
+            }
+        },
+        {
+            "data": null,
+            "links": {
+                "self": "link-value"
+            }
+        }
+    ]
+}
