@@ -24,7 +24,8 @@ class List extends Component {
                 <thead>
                 <tr>
                     <th>ID</th>
-                    <th>Data</th>
+                    <th>Version</th>
+                    <th>File</th>
                     <th>Created at</th>
                 </tr>
                 </thead>
@@ -32,7 +33,8 @@ class List extends Component {
                 {logs.map(log =>
                     <tr key={log.id}>
                         <td>{log.id}</td>
-                        <td>{log.data}</td>
+                        <td>{log.version}</td>
+                        <td>{log.file}</td>
                         <td>{log.created_at}</td>
                     </tr>
                 )}

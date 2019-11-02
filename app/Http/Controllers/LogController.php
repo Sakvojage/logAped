@@ -34,10 +34,11 @@ class LogController extends Controller
      */
     public function store(Request $request, Log $log)
     {
-        $log->data = $request->input('bag.number');
+        $log->version = $request->input('version');
+        $log->file = $request->input('file');
 
         if ($log->save()) {
-            return response()->json(["Status" => "Logged", "Data" => $log->data], 202);
+            return response()->json(["Status" => "Logged", "Data" => json_encode($log)], 202);
         };
         return response()->json(["Status" => "Failed to log"], 400);
 

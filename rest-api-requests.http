@@ -2,9 +2,8 @@ POST http://127.0.0.1:8000/api/log
 Content-Type: application/json
 
 {
-  "bag": {
-    "number": "Versija 55"
-  }
+    "version": "Versija 55",
+    "file": "something.bin"
 }
 
 ###
